@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\zufapjt\zufapjt1\bin\Debug\zufapjt1.exe.config
+C:\Users\HP\source\repos\zufapjt\zufapjt1\bin\Debug\zufapjt1.exe
+C:\Users\HP\source\repos\zufapjt\zufapjt1\bin\Debug\zufapjt1.pdb
+C:\Users\HP\source\repos\zufapjt\zufapjt1\obj\Debug\zufapjt1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\zufapjt\zufapjt1\obj\Debug\zufapjt1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\zufapjt\zufapjt1\obj\Debug\zufapjt1.csproj.CopyComplete
+C:\Users\HP\source\repos\zufapjt\zufapjt1\obj\Debug\zufapjt1.exe
+C:\Users\HP\source\repos\zufapjt\zufapjt1\obj\Debug\zufapjt1.pdb
+C:\Users\HP\source\repos\zufapjt\zufapjt1\bin\Debug\Log.config

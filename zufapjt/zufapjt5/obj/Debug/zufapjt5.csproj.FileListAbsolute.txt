@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\zufapjt\zufapjt5\bin\Debug\README.txt
+C:\Users\HP\source\repos\zufapjt\zufapjt5\bin\Debug\Students.accdb
+C:\Users\HP\source\repos\zufapjt\zufapjt5\bin\Debug\zufapjt5.exe.config
+C:\Users\HP\source\repos\zufapjt\zufapjt5\bin\Debug\zufapjt5.exe
+C:\Users\HP\source\repos\zufapjt\zufapjt5\bin\Debug\zufapjt5.pdb
+C:\Users\HP\source\repos\zufapjt\zufapjt5\obj\Debug\zufapjt5.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\zufapjt\zufapjt5\obj\Debug\zufapjt5.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\zufapjt\zufapjt5\obj\Debug\zufapjt5.exe
+C:\Users\HP\source\repos\zufapjt\zufapjt5\obj\Debug\zufapjt5.pdb
